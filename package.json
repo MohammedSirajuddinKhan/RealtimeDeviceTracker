@@ -1,0 +1,25 @@
+{
+  "name": "realtimedevicetracker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedSirajuddinKhan/RealtimeDeviceTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedSirajuddinKhan/RealtimeDeviceTracker/issues"
+  },
+  "homepage": "https://github.com/MohammedSirajuddinKhan/RealtimeDeviceTracker#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
