@@ -20,7 +20,7 @@ if (navigator.geolocation) {
 const map = L.map("map").setView([0, 0], 18);
 
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: "OpenStreetMap",
+  attribution: "Sirajuddin Khan",
 }).addTo(map);
 
 const markers = {};
